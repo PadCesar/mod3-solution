@@ -1,0 +1,15 @@
+
+body {
+	font-family: 'Bree Serif', serif;
+}
+
+.menu-tile{
+	background-color: grey;
+	color: black;
+}
+.menu-tile .menu-title {
+	font-size: 2em;
+}
+.menu-tile .menu-description {
+	font-size: 1em;
+}
